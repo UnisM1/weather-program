@@ -15,3 +15,4 @@ fetch(apiUrl)
     });
 
 console.log('Requesting weather data');
+
