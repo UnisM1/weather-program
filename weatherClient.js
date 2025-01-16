@@ -17,3 +17,5 @@ client.fetchWeatherData('London').then((weatherData) => {
     console.log(`Weather data for ${weatherData.name}:`)
     console.log(weatherData);
 });
+
+module.exports = WeatherClient;
